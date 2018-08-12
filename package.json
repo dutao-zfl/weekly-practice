@@ -1,0 +1,12 @@
+{
+  "name": "weekly-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "docsify serve ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
